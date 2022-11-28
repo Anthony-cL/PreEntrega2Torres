@@ -51,7 +51,11 @@ footer {
   margin-top: 2rem;
 }
 
-.footer__box p {
+.footer__text {
   color: white;
   font-family: roboto;
+}
+
+.footer__iconos img {
+  width: 25px;
 }

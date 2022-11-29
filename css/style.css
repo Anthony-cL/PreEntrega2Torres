@@ -68,3 +68,7 @@ footer {
   margin-top: 1.2rem;
   margin-left: 1.2rem;
 }
+
+.medicina__img img {
+  border: 5px solid #4289ac;
+}

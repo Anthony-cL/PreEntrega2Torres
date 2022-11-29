@@ -59,3 +59,12 @@ footer {
 .footer__iconos img {
   width: 25px;
 }
+
+/*MEDICINA*/
+.medicina__p {
+  margin-bottom: 2rem;
+}
+.medicina__img {
+  margin-top: 1.2rem;
+  margin-left: 1.2rem;
+}
